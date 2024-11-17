@@ -1,6 +1,6 @@
 <!--h1 without bottom border-->
 <div>
-    <h1 style="display: inline-block">Hello 👋, I'm Keyur Khant</h1>
+    <h1 style="display: inline-block">Hello 👋, I'm Mansi Vaghasiya</h1>
 </div>
 
 
