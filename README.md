@@ -30,12 +30,4 @@
     <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" />
 </a>
 
-
 <br/>
-<br/>
-<!--profile visit count-->
-<div>
-  
-[![](https://visitcount.itsvg.in/api?id=Mansivaghasiya1911&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
